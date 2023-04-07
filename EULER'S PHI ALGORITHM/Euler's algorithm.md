@@ -5,7 +5,7 @@ Here’s an example of how to calculate φ(8) using this algorithm:
 
 The prime factors of 8 are 2 and 3
 
-φ(8) = 8 * (1 - 1/2) * (1 - 1/3) = 4
+     φ(8) = 8 * (1 - 1/2) * (1 - 1/3) = 4
 
 
 
